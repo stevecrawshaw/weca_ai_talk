@@ -1,0 +1,72 @@
+---
+title: "Generative AI"
+subtitle: "Large Language Models"
+author: "Steve Crawshaw"
+institute: "Analysis Team"
+embed-resources: true
+preview-links: true
+format:
+  revealjs:
+    theme: 
+    - default
+    - clean.scss
+---
+
+
+## Content {background-image="plots/weca_ppt_image_sized_3.png"}
+
+- Large Language Models - How they work
+- Ideas and Creativity
+- Document summary
+- Tools: Images
+- Tools: Code
+- Future applications
+- Building GPT's
+- Risks and Issues
+
+## LLM: Introduction {background-image="plots/weca_ppt_image_sized_3.png"}
+
+![](plots/wikipedias-most-popular-articles-of-2023-v0-imoiun5gb05c1.webp)
+
+## Generative AI: The market {background-image="plots/weca_ppt_image_sized_3.png"}
+
+![](plots/llm_list.png)
+
+## LLMs: How they work {background-image="plots/weca_ppt_image_sized_3.png"}
+![](plots/llm_predict.png)
+
+## LLMs: Training the model {background-image="plots/weca_ppt_image_sized_3.png"}
+![](plots/llm_training_overview.png)
+
+
+## LLM: Principles of operation {background-image="plots/weca_ppt_image_sized_3.png"}
+
+[New York Times lawsuit](https://s3.eu-central-1.amazonaws.com/up.raindrop.io/raindrop/files/713/595/922/NYT_LLM_POA.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZWICFKR6WVGSFWFG%2F20240308%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20240308T092329Z&X-Amz-Expires=1800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjENn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDGV1LWNlbnRyYWwtMSJHMEUCIQDSsylaSWesOpvBYljWNi5f0T9KeniFGQA1v508PRrqVQIgDjH96NaH0IW%2BKnofjkuHNQYQ0nt%2BnrlH5igOsSxJOcYqgQQI0v%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2NjYyNjEzNDU0MDUiDENLxR8Oa0OGgstzFCrVA5nADpS8zvruX85923IXWkfSGjVDZ7Eo5OU73E5buXz9d3%2FIroHj1d87ZmVc7op7ndoqneOaMEnOVpI07VGXawCWS2P3P8IWa2dcEqfSdH7jfKykxsS3qAa%2F9tT07N2Db91jJG6tnniUaGJdXxOfhY7qGLybB1c9SL%2F3%2FXNJzej%2BKSpbO5nCOdcZzhOvTGgoNkavD478WkN3tzGtjFnL8s2rp0W26iw7S4%2FedhPohpzlkpmikjI0m80YC2I9E84kX77Tpm7OMf0RYxO7EbY1jKIlHHkldrpdu610e%2FAoZqZC7A%2FWbC8ZlQ8MsswTPstFyI5yVJ4MU0gCindvzZi1uNgSGjZVPsa6nO4f%2BE%2FQhG5WBA4V9mCdGzze54NGJYBPsRjQaiW5PnksRE4MI2OpjIMjbZJjLg0z11ZJq09OoOQqFoLAi7ttpB9qjPLhgrtSvqR6RCiCiIfLuEehEkzsnFvb1p%2B9K6d%2BLoSmhUsJuHRyjzyfbS9RVS024eecc7jblDN45URGgx88oWiRMaWD%2FViTTToVFb%2FBB9uCHBvRTMfjz6li8HzGEyuO3zoiyySXfBgxVtzXJkdNTU8NgHLH2D5BPHztZpaNcoAbaw8hlEquGMc1xAUw16SrrwY6pQGHaMrF8GHNhksodyQh9wQ4dsP4chDIWP0QEvWQkKKQpRuru%2FUrHaSM%2BG0LeXx8k%2Fzzxoc1Sry%2F%2Fmhf7EPOr9qzoVJs9K9BB9tTb55nNyrcjjNHx0kar476kMnCSB2b7xeVYV4V5yo0wWFE%2FWvWFCy2SVcJEmAAkkMKdd4h4CY2%2F%2FFQho6Ij4zvJghzRIlRGNWC7MwY5EAuKemhdiDZXpam7lWwCdM%3D&X-Amz-Signature=2d312ad3feb73445bfb1310d87cf49e575a5c6151e3ad3f73c267c01c64afdb1&X-Amz-SignedHeaders=host&x-id=GetObject)
+
+
+## LLM Fundamentals {background-image="plots/weca_ppt_image_sized_3.png"}
+
+- LLMs "dream" content based on their training data (the internet)
+- LLMs are to some degree inscrutable and empirical
+- You (probably) won't get the same answer twice
+- They will hallucinate (because they dream)
+
+
+## Examples {background-image="plots/weca_ppt_image_sized_3.png"}
+
+- Prompting
+- System Prompt (describes how the model should behave)
+- User Prompt (clearly states what you want the model to do)
+
+## Future - LLM based Operating Systems? {background-image="plots/weca_ppt_image_sized_3.png"}
+![](plots/llm-future.png)
+
+## Risks {background-image="plots/weca_ppt_image_sized_3.png"}
+![](plots/freehugs.jpg)
+
+
+## Security {background-image="plots/weca_ppt_image_sized_3.png"}
+![](plots/llm_security.png)
+
+##  {background-image="plots/weca_ppt_image_sized_3.png"}
+

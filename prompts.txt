@@ -1,0 +1,41 @@
+straplines for regional engagement
+
+
+why aren't CO2 emissions declining in the transport sector in the UK?
+
+species check
+
+Magpie
+Green woodpecker
+Eurasian spoonbill
+Golden plover
+Grey plover
+Great crested grebe
+Black-necked grebe
+Willow tit
+Marsh tit
+Spotted crake
+Dunnock
+Bullfinch
+Avocet
+Firecrest
+Goldcrest
+Sand martin
+Black-legged kittiwake
+Whinchat
+Stonechat
+Nuthatch
+Eider
+Shoveler
+Garganey
+Siskin
+Roseate tern
+Common tern
+Arctic tern
+Little tern
+Collared dove
+Turtle dove
+Tawny owl
+Starling
+
+can you provide code in R using httr2 library to receive food hygiene ratings data for establishments in Bristol UK? here is the website. http://api.ratings.food.gov.uk/Help/Index/#Establishments
