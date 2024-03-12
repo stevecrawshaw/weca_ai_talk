@@ -1,9 +1,81 @@
-straplines for regional engagement
+Please tell me a short story (about 1000 words) about how the cryptid Crungus protected the ancient standing stones at Stanton Drew against an attack by a phalanx of Gryphons.
 
+Please write a Haiku of this event
+
+Please translate into Crungus's fictitious language
+
+
+Please show me a picture of Crungus defending the stones.
+
+________________________________________________________________
+
+straplines for regional engagement:
+
+can you use Bing to search for the key attributes of the West of England region and give me 10 straplines that we could use to promote the benefits of business relocating to the region please?
+
+________________________________________________________________
+
+Please summarise this paper to highlight the actions and recommendations for the board
+
+West of England Regional Pipeline
+Paper for WENP Board, 19 March 2024
+Summary
+This paper summarises the background to regional project pipeline discussions; outlines options for a pipeline to deliver the LNRS, Catchment Plan and GI Strategy; outlines resource implications of pipeline development and puts forward options for partners to consider regarding increasing regional capacity.
+The paper has been drafted by (WENP) with input from XYZ. Although illustrative screenshots have been provided in appendices, the paper is fairly text heavy. There will be an opportunity to explore the concepts in the paper in a more interactive way at the Board meeting.
+Recommended actions
+The Board is asked to:
+-	Comment on the pipeline options and indicate whether WENP, BACP and the Combined Authority should proceed with building a prototype
+-	Consider the most effective way/s to increase regional pipeline development capacity and agree next steps
+Pipeline – background & objectives
+The development of a regional pipeline is essential to deliver WENP’s strategic impact priority: “Facilitate investment in and delivery of projects that deliver the West of England Nature Recovery Network, with a focus on large and impactful projects.” (WENP Strategy 2021-2030).
+Partners agreed at the December Board meeting that, to build on the foundation provided by the WENP prospectus, a regional pipeline should:
+1.	Demonstrate (and quantify where possible) the contribution of projects to regional strategies and targets (specifically LNRS, WENP/CESAP targets, Catchment Plan, Joint Green Infrastructure Strategy)
+2.	Improve transparency and facilitate collaboration to enable delivery of larger, more impactful projects 
+3.	Identify opportunities for private investment and other diversification of income sources
+4.	Position projects on the shovel/investment-readiness spectrum and identify and actions to move projects along pipeline
+A pipeline which achieves the above outcomes would enable greater investment over longer timescales to deliver our nature recovery priorities, in line with the WENP strategy. For example, the Combined Authority could potentially commit significantly more funding for nature recovery over its 2026-2030 investment period, subject to the development of a pipeline which clearly demonstrates how that investment would deliver regional objectives and leverage other sources of funding.
+It was noted by the Board in December that it may be more constructive to think in terms of strategic ‘programmes’, designed to deliver particular priority outcomes, rather than specific projects. This was reinforced at the BACP workshop on 8 February. Programmes would need to be at an ecologically relevant scale such as LNRS area or sub-catchment. Varying types and scale of project could then be developed, either individually or in partnership, which contribute to the delivery of a programme’s key outcomes. Existing or emerging programmes which could fit this model include River Frome Reconnected, North Somerset Levels and Moors, Somer Valley Rediscovered, Chew Valley Reconnected and the Severnside Shore and Levels (not exhaustive). 
+Building a prototype pipeline
+Partners have agreed to aim to develop one integrated pipeline for our regional nature recovery, catchment and green infrastructure strategies because of the considerable overlap in the programmes and projects that will deliver them. If the Board supports the approach outlined in this paper, WENP, BACP and the Combined Authority can work together to build a prototype pipeline, but to take it further, partners’ capacity to develop projects will need to increase considerably – see next section of paper. 
+There are challenges in creating a coherent integrated pipeline because the geographic breakdown of the region varies between strategies (LNRS area, sub-catchment and GI areas respectively). Priority outcomes in these strategies are necessarily specific to those distinct geographic areas because of the different considerations around ecology/hydrology and GI. It may not be possible, or necessary, to merge these geographic areas if they can be displayed spatially with their corresponding strategy priorities and clearly cross-referenced.
+However, even if priorities are defined according to their distinct geographic areas, this need not be a major barrier to identifying strategic programme areas for pipeline development. As evidenced by existing/emerging programmes, it is clearly possible to identify a priority area and develop a programme of work to deliver outcomes in that area without becoming too fixated on boundaries. Programme boundaries could be defined by the LNRS, sub-catchments, GI areas or a combination of these depending on what partners agree makes most sense.
+Open Data Portal 
+The Open Data Portal being developed to support the LNRS will allow us to present our regional priorities and pipeline spatially. There are two ways in which it could do this:
+1.	Preferred: Hosting separate layers on LNRS, sub-catchment and GI area priorities, divided geographically according to the boundaries in their respective strategies, but with the functionality to overlay them to demonstrate they relate to one another. This would require less work than option 2 and would allow each partnership (WENP/BACP/Green Infrastructure Working Group) to retain ownership of their own strategy areas. 
+
+2.	Through a process of consensus building, agree a way of dividing up the region which works for all three strategies and articulate priorities for nature recovery, catchment and GI for each of these areas. Programmes could then be developed which correspond directly to these areas. This would have the benefit of producing one map of priorities for the region broken down by area, but this may not actually be desirable as some outcomes necessarily specific to, for example, a particular landscape or sub-catchment. 
+Under options 1 or 2, there would then be a ‘pipeline layer’ in which strategic programme areas are defined and linked to the priority outcomes identified in the underlying strategy layers. Some programmes will be integral to the delivery of outcomes in all three strategies, while others might be driven primarily by their importance for nature/catchment/GI. Defining the extent to which a programme contributes to the delivery of particular strategies will help to identify suitable funding streams and appropriate lead partners and governance mechanisms. It will also be important at this stage to consider the potential to deliver important non-spatial strategies such as the WENP Strategy for Nature & Health.
+The following three sections outline how priorities for nature recovery, catchment and GI could be presented in the Open Data Portal. There is then an example of what could be presented in a ‘pipeline layer’.
+LNRS
+Appendix II of the LNRS will divide the West of England into 21 areas and provide information on the characteristics, challenges and opportunities for nature recovery in each area. These areas are broadly based on Landscape Character Areas, but do not align completely due to particular ecological considerations. These 21 areas generally correspond to the scale at which we currently operate programmes and place-based partnerships (eg North Somerset Levels and Moors, Chew Valley etc). Appendix IV of the LNRS further divides these broad areas into 53 sub-areas to provide specific detail on how each area links to the LNRS priority outcomes and measures. ‘Focus areas’ have then been identified based on analysis of data on ecology, land use, Agricultural Land Classification etc to determine their suitability, potential and strategic significance for nature recovery.
+A screenshot of how the LNRS areas will look in the Open Data Portal and an example of area-specific text from the LNRS is included in Appendix I of this paper; the draft LNRS can be viewed in full in the WENP Sharepoint (ask Zoe if you need access). All areas will be mapped on the Open Data Portal. Users will be able to view a description and recommended measures for each of the 53 sub-areas into which the region is broken down, with the focus areas overlaid so that users can see where they could concentrate their efforts for maximum impact.
+Catchment priorities
+17 of the 23 sub-catchments of the Bristol Avon Catchment fall within the West of England region. BACP recently held a workshop looking at priority outcomes and projects across the Bristol Avon’s sub-catchments. BACP has undertaken further mapping of drivers and projects following the workshop as well as collating information provided by partners on sub-catchment priorities (see Appendix II). This information could form the basis of a layer in the Open Data Portal which describes sub-catchment-specific priorities flowing from the Bristol Avon Catchment Plan and Fish Recovery Strategy and could contribute towards the development of strategic programmes for the pipeline.
+Green Infrastructure
+The Joint Green Infrastructure Strategy divides the region into 22 West of England GI Areas (see Appendix III). These are similar but not identical to the 21 areas identified in the LNRS. It will be for the Green Infrastructure Working Group (GIWG), convened by the Combined Authority, to decide the most appropriate way to organise and present regional GI priorities. Further work will then be needed for the GIWG, in collaboration with WENP and BACP, to identify where GI and nature recovery/catchment aims are complimentary, and where they diverge or there is potential conflict and a need to treat GI priorities/projects separately.
+‘Programme’ pipeline
+The preferred option at this stage is that the regional pipeline comprises strategic programmes which are informed by the priorities set out separately in the LNRS, catchment and GI strategies. Partners would need to agree boundaries for strategic programme areas, based on the particular drivers and priorities in that area. This is not a major deviation from the way existing programmes are developed but it would involve partners taking a more strategic approach and making conscious decisions about priority programmes and investments.
+The focus areas defined in the LNRS will provide a useful steer as to where resources could be concentrated within a programme area to deliver greatest impact for nature. They will be the most attractive places for private investment given the potential scale of environmental outcomes that could be delivered their and the incentive for landowners and managers within those areas to explore alternative income streams.
+Resource requirements
+The vision for a regional pipeline described above is essentially what WENP, BACP and Combined Authority colleagues have concluded is preferable. However, this vision will only achievable if all key partners have the capacity to contribute meaningfully towards its development. It has come out very strongly from partners in WENP discussions and, most recently, at the BACP workshop on 8 Feb, that one of the most prohibitive barriers to partnership working is a lack of capacity to engage in strategic discussions and project/programme development. If the collective ambition of partners is to develop and deliver a strategic regional pipeline for nature recovery, catchment improvement and GI, it will be absolutely necessary to invest upfront in pipeline development capacity within partner organisations.
+There are several ways in which resource could be deployed across the region to support pipeline development. The following hypothetical examples have been suggested for discussion, which are not mutually exclusive:
+-	New role/s within key partner organisations with non-specific project pipeline development remit (ie could be deployed across multiple programmes/projects)
+-	New role/s withing key partner organisations with specific project development remit (ie with responsibility for developing one identified programme/project)
+-	Increasing delivery and/or programme/project management capacity of partner organisations to free up senior managers to engage in strategic pipeline development
+-	Increasing ‘central’ capacity (eg WENP, BACP, Combined Authority) to support coordination and/or provide specific skills/expertise eg around business case development
+The Combined Authority has indicated that it could significantly increase its allocation of funding over the next 1-2 years to pipeline development, in readiness for the start of its next investment period in 2026 (at which point it could re-balance funding towards delivery). However, any funding from the Combined Authority would be subject to sufficient match funding (~50%) from other sources.
+If partners wish to pursue this opportunity, it will be necessary for partners to:
+-	Agree the preferred option/s for deploying pipeline development resource across the region
+-	With the support of WENP, BACP and the Combined Authority, prepare a business case for regional pipeline development
+-	Work with fundraising colleagues to identify potential match funding sources for pipeline development
+
+____________________________________________________
 
 why aren't CO2 emissions declining in the transport sector in the UK?
 
-species check
+____________________________________________________
+
+Please give me the Linnaean names of these species. Return the results in a table.
 
 Magpie
 Green woodpecker
@@ -37,5 +109,21 @@ Collared dove
 Turtle dove
 Tawny owl
 Starling
+
+________________________________________________________
+
+Please plot the last three years closing prices for NVIDIA stock and plot a time series chart?
+
+load NVDA.csv from data directory
+
+________________________________________________________
+
+Can you give me a sentiment analysis of this text?
+
+It's baffling to me what the point of knocking down one tower to build another is. I suppose the developers must be confident of making a profit on it, but what can be achieved that refitting it wouldn't?
+
+Whatever tinkering happens in the bear pit it's never going to be a nice place to be for as long as it has a motorway sized roundabout encircling it. It's a relic of car centric planning where city planners and architects dreamed we'd whizz round happily in hermetically sealed units to wherever we'd need to be in a spacious modern city. They drew pretty pictures for that too. Until that error is reversed and motor vehicle space is reduced it's always going to be grim.
+
+_______________________________________________________
 
 can you provide code in R using httr2 library to receive food hygiene ratings data for establishments in Bristol UK? here is the website. http://api.ratings.food.gov.uk/Help/Index/#Establishments

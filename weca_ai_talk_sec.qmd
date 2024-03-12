@@ -16,15 +16,25 @@ format:
 ## Content {background-image="plots/weca_ppt_image_sized_3.png"}
 
 - Large Language Models - How they work
-- Ideas and Creativity
-- Document summary
-- Tools: Images
-- Tools: Code
-- Future applications
+- Demo
+  - Ideas and creativity
+  - Document summary
+  - Tools: images
+  - Tools: code
 - Building GPT's
-- Risks and Issues
+- Future applications
+- Risks and issues
 
-## LLM: Introduction {background-image="plots/weca_ppt_image_sized_3.png"}
+::: {.notes}
+we will go fast
+questions at end, in chat, 20 mins
+REACTION:
+  used chatGPT (or any AI)
+  paid for chatGPT
+:::
+
+
+## Introduction {background-image="plots/weca_ppt_image_sized_3.png"}
 
 ![](plots/wikipedias-most-popular-articles-of-2023-v0-imoiun5gb05c1.webp)
 
@@ -32,19 +42,30 @@ format:
 
 ![](plots/llm_list.png)
 
+::: {.notes}
+Claude 3
+Gemini
+Open vs Closed source
+WE WILL USE CHAT GPT 4 = £20 ppm
+:::
+
 ## LLMs: How they work {background-image="plots/weca_ppt_image_sized_3.png"}
 ![](plots/llm_predict.png)
 
-## LLMs: Training the model {background-image="plots/weca_ppt_image_sized_3.png"}
+::: {.notes}
+Zoom to parameters file - Alt click
+Explain that this is training set, from internet, compressed
+:::
+
+
+## Training the model {background-image="plots/weca_ppt_image_sized_3.png"}
 ![](plots/llm_training_overview.png)
 
+::: {.notes}
+Mention GPU's and NVIDIA (bitcoin)
+:::
 
-## LLM: Principles of operation {background-image="plots/weca_ppt_image_sized_3.png"}
-
-[New York Times lawsuit](https://s3.eu-central-1.amazonaws.com/up.raindrop.io/raindrop/files/713/595/922/NYT_LLM_POA.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZWICFKR6WVGSFWFG%2F20240308%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20240308T092329Z&X-Amz-Expires=1800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjENn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDGV1LWNlbnRyYWwtMSJHMEUCIQDSsylaSWesOpvBYljWNi5f0T9KeniFGQA1v508PRrqVQIgDjH96NaH0IW%2BKnofjkuHNQYQ0nt%2BnrlH5igOsSxJOcYqgQQI0v%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2NjYyNjEzNDU0MDUiDENLxR8Oa0OGgstzFCrVA5nADpS8zvruX85923IXWkfSGjVDZ7Eo5OU73E5buXz9d3%2FIroHj1d87ZmVc7op7ndoqneOaMEnOVpI07VGXawCWS2P3P8IWa2dcEqfSdH7jfKykxsS3qAa%2F9tT07N2Db91jJG6tnniUaGJdXxOfhY7qGLybB1c9SL%2F3%2FXNJzej%2BKSpbO5nCOdcZzhOvTGgoNkavD478WkN3tzGtjFnL8s2rp0W26iw7S4%2FedhPohpzlkpmikjI0m80YC2I9E84kX77Tpm7OMf0RYxO7EbY1jKIlHHkldrpdu610e%2FAoZqZC7A%2FWbC8ZlQ8MsswTPstFyI5yVJ4MU0gCindvzZi1uNgSGjZVPsa6nO4f%2BE%2FQhG5WBA4V9mCdGzze54NGJYBPsRjQaiW5PnksRE4MI2OpjIMjbZJjLg0z11ZJq09OoOQqFoLAi7ttpB9qjPLhgrtSvqR6RCiCiIfLuEehEkzsnFvb1p%2B9K6d%2BLoSmhUsJuHRyjzyfbS9RVS024eecc7jblDN45URGgx88oWiRMaWD%2FViTTToVFb%2FBB9uCHBvRTMfjz6li8HzGEyuO3zoiyySXfBgxVtzXJkdNTU8NgHLH2D5BPHztZpaNcoAbaw8hlEquGMc1xAUw16SrrwY6pQGHaMrF8GHNhksodyQh9wQ4dsP4chDIWP0QEvWQkKKQpRuru%2FUrHaSM%2BG0LeXx8k%2Fzzxoc1Sry%2F%2Fmhf7EPOr9qzoVJs9K9BB9tTb55nNyrcjjNHx0kar476kMnCSB2b7xeVYV4V5yo0wWFE%2FWvWFCy2SVcJEmAAkkMKdd4h4CY2%2F%2FFQho6Ij4zvJghzRIlRGNWC7MwY5EAuKemhdiDZXpam7lWwCdM%3D&X-Amz-Signature=2d312ad3feb73445bfb1310d87cf49e575a5c6151e3ad3f73c267c01c64afdb1&X-Amz-SignedHeaders=host&x-id=GetObject)
-
-
-## LLM Fundamentals {background-image="plots/weca_ppt_image_sized_3.png"}
+## Fundamentals {background-image="plots/weca_ppt_image_sized_3.png"}
 
 - LLMs "dream" content based on their training data (the internet)
 - LLMs are to some degree inscrutable and empirical
@@ -52,11 +73,30 @@ format:
 - They will hallucinate (because they dream)
 
 
-## Examples {background-image="plots/weca_ppt_image_sized_3.png"}
+## Prompting {background-image="plots/weca_ppt_image_sized_3.png"}
 
-- Prompting
 - System Prompt (describes how the model should behave)
+  - "System: You are chatGPT, an expert in human resources and recruitment, you understand the need for fair recruitment practices and transparency in candidate selection"
 - User Prompt (clearly states what you want the model to do)
+  - "User: Given this job description, please devise three questions to ask the candidate and supply model answers"
+- You can configure chatGPT with default "custom instructions" depending on your needs.
+  
+::: {.notes}
+Mention prompt engineering and resources for prompting
+NOW DO EXAMPLES - MENTION CHAT GPT 4 (CODE ANALYSIS, PLUGINS, BUILD GPTS)
+BE POLITE
+Mention API
+:::
+
+## Let's chat! {background-image="plots/weca_ppt_image_sized_3.png"}
+
+## Building GPTs {background-image="plots/weca_ppt_image_sized_3.png"}
+
+- Configure a purpose - built GPT by prompting (chatGPT 4)
+- No code required
+- e.g.
+  - Dejargonizer
+  - Research Assistant
 
 ## Future - LLM based Operating Systems? {background-image="plots/weca_ppt_image_sized_3.png"}
 ![](plots/llm-future.png)
@@ -68,5 +108,14 @@ format:
 ## Security {background-image="plots/weca_ppt_image_sized_3.png"}
 ![](plots/llm_security.png)
 
-##  {background-image="plots/weca_ppt_image_sized_3.png"}
+::: {.notes}
+DON'T PUT ANY PERSONAL OR SENSITIVE INFORMATION INTO GPT
+:::
+
+## Further reading {background-image="plots/weca_ppt_image_sized_3.png"}
+
+- [Links and Resources](https://raindrop.io/murrayjarvis/llm-essential-42463647)
+- [New York Times lawsuit](https://s3.eu-central-1.amazonaws.com/up.raindrop.io/raindrop/files/713/595/922/NYT_LLM_POA.pdf?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=ASIAZWICFKR6WVGSFWFG%2F20240308%2Feu-central-1%2Fs3%2Faws4_request&X-Amz-Date=20240308T092329Z&X-Amz-Expires=1800&X-Amz-Security-Token=IQoJb3JpZ2luX2VjENn%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaDGV1LWNlbnRyYWwtMSJHMEUCIQDSsylaSWesOpvBYljWNi5f0T9KeniFGQA1v508PRrqVQIgDjH96NaH0IW%2BKnofjkuHNQYQ0nt%2BnrlH5igOsSxJOcYqgQQI0v%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAAGgw2NjYyNjEzNDU0MDUiDENLxR8Oa0OGgstzFCrVA5nADpS8zvruX85923IXWkfSGjVDZ7Eo5OU73E5buXz9d3%2FIroHj1d87ZmVc7op7ndoqneOaMEnOVpI07VGXawCWS2P3P8IWa2dcEqfSdH7jfKykxsS3qAa%2F9tT07N2Db91jJG6tnniUaGJdXxOfhY7qGLybB1c9SL%2F3%2FXNJzej%2BKSpbO5nCOdcZzhOvTGgoNkavD478WkN3tzGtjFnL8s2rp0W26iw7S4%2FedhPohpzlkpmikjI0m80YC2I9E84kX77Tpm7OMf0RYxO7EbY1jKIlHHkldrpdu610e%2FAoZqZC7A%2FWbC8ZlQ8MsswTPstFyI5yVJ4MU0gCindvzZi1uNgSGjZVPsa6nO4f%2BE%2FQhG5WBA4V9mCdGzze54NGJYBPsRjQaiW5PnksRE4MI2OpjIMjbZJjLg0z11ZJq09OoOQqFoLAi7ttpB9qjPLhgrtSvqR6RCiCiIfLuEehEkzsnFvb1p%2B9K6d%2BLoSmhUsJuHRyjzyfbS9RVS024eecc7jblDN45URGgx88oWiRMaWD%2FViTTToVFb%2FBB9uCHBvRTMfjz6li8HzGEyuO3zoiyySXfBgxVtzXJkdNTU8NgHLH2D5BPHztZpaNcoAbaw8hlEquGMc1xAUw16SrrwY6pQGHaMrF8GHNhksodyQh9wQ4dsP4chDIWP0QEvWQkKKQpRuru%2FUrHaSM%2BG0LeXx8k%2Fzzxoc1Sry%2F%2Fmhf7EPOr9qzoVJs9K9BB9tTb55nNyrcjjNHx0kar476kMnCSB2b7xeVYV4V5yo0wWFE%2FWvWFCy2SVcJEmAAkkMKdd4h4CY2%2F%2FFQho6Ij4zvJghzRIlRGNWC7MwY5EAuKemhdiDZXpam7lWwCdM%3D&X-Amz-Signature=2d312ad3feb73445bfb1310d87cf49e575a5c6151e3ad3f73c267c01c64afdb1&X-Amz-SignedHeaders=host&x-id=GetObject)
+
+- [Intro to Large Language Models {Andrej Karpathy}](https://www.youtube.com/watch?v=zjkBMFhNj_g)
 
